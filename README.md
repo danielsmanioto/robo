@@ -7,6 +7,8 @@
 </ul>
 
 # References
-https://reactjs.org/docs/create-a-new-react-app.html
-https://tachyons.io/components/
-https://robohash.org/
+<ul>
+  <li>https://reactjs.org/docs/create-a-new-react-app.html</li>
+  <li>https://tachyons.io/components/</li>
+  <li>https://robohash.org/</li>
+</ul>
