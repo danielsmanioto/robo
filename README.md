@@ -9,7 +9,7 @@
 # Heroku
 <ul>
   <li>Production: https://ds-smanioto-robo.herokuapp.com/</li>
-  <li>Buildpacke: https://github.com/mars/create-react-app-buildpack/li>
+  <li>Buildpacke: https://github.com/mars/create-react-app-buildpack</li>
 </ul>
 
 # References
